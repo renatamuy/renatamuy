@@ -4,4 +4,4 @@
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals and maps
-* ⚡ Fact: After years of lazyness I was finally inspired enough to write this after all emojis and figs actually make every text better..
+* ⚡ Fact: after years of lazyness I was finally inspired enough to write this after all emojis and figs actually make every text better..
