@@ -1,4 +1,4 @@
-### Hello/Olá 👋
+### Hello/Olá, I am Renata!
 
 * 👩‍💻 I’m currently working on: disease ecology, biodiversity and fragmentation
 * 🤯 I’m looking for help with: complexity
