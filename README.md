@@ -6,4 +6,4 @@
 * 💓 Love: mammals 🦇, maps 🌏, and teaching
 * ⚡ Fact: after years of lazyness I was finally inspired enough to write this after all emojis and figs actually make every text better..
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=omni)
