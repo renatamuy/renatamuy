@@ -4,6 +4,5 @@
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals 🦇, maps 🌏, and teaching
-* ⚡ Fact: after years of lazyness I was finally inspired enough to write this (emojis and figs make every text better..)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=omni)
