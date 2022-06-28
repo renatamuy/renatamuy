@@ -6,6 +6,7 @@
 * 💓 Love: mammals 🦇, maps 🌏, and teaching
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatamuy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me out there
 
