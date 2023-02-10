@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora+👋,+I+am+Renata;I+am+curious;I+love+R)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora!+👋,+I+am+Renata;I+am+curious;I+love+R)](https://git.io/typing-svg)
 
 * 👩‍💻 I’m currently working on: disease ecology, biodiversity and fragmentation
 * 🤯 I’m looking for help with: complexity
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatamuy&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-### Find me out there
+### Find me
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/MuyRe)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0002-6466-6210)
@@ -19,5 +19,5 @@
 
 <br>
 
-### GitHub Activity Graph:
+### GitHub Activity Graph
 [![renatamuy GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renatamuy&theme=github-compact)](https://github.com/renatamuy/github-readme-activity-graph)
