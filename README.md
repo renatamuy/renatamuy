@@ -17,5 +17,6 @@
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/>](https://www.researchgate.net/profile/Renata-Muylaert)
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/8131277671550294)
 
+
 ### GitHub Activity Graph:
 [![renatamuy GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renatamuy&theme=github-compact)](https://github.com/renatamuy/github-readme-activity-graph)
