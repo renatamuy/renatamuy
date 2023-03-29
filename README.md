@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora,+I+am+Renata+😎;I+am+curious;I+love+R)](https://git.io/typing-svg)
 
-* 👩‍💻 I’m currently working on: disease ecology, biodiversity and fragmentation
+* 👩‍💻 I’m currently working on: disease ecology, biodiversity and habitat fragmentation
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals 🦇, maps 🌏, and teaching
