@@ -13,7 +13,7 @@
 
 ### Find me
 
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/MuyRe)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/muymaps)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0002-6466-6210)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate)
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/>](https://www.researchgate.net/profile/Renata-Muylaert)
