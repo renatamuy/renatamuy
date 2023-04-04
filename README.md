@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/renatamuy">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=omni"/> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamuy&show_icons=true&theme=omni"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renatamuy&show_icons=true&theme=omni"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamuy&show_icons=true&theme=omni"/>
 <div>
 
 ### Find me
