@@ -24,4 +24,4 @@
 <br>
 
 ### GitHub Activity Graph
-[![renatamuy GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renatamuy&theme=github-compact)](https://github.com/renatamuy/github-readme-activity-graph)
+[![Renatas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renatamuy&theme=dracula)](https://github.com/renatamuy/github-readme-activity-graph)
