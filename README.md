@@ -22,6 +22,3 @@
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/8131277671550294)
 
 <br>
-
-### GitHub Activity Graph
-[![Renatas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renatamuy&theme=dracula)](https://github.com/renatamuy/github-readme-activity-graph)
