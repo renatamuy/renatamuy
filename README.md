@@ -2,7 +2,7 @@
 
 <br>
 
-[<img align="centre" width="100px" src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b"/>]([https://allisonhorst.com/r-slack-emoji](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b))
+[<img align="center" width="100px" src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b"/>]([https://allisonhorst.com/r-slack-emoji](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b))
 
 <br>
 
