@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora,+I+am+Renata+😎;I+am+curious;I+love+R)](https://git.io/typing-svg)
-
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora,+I+am+Renata+😎;I+am+curious;I+love+R" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://allisonhorst.com/r-slack-emoji">
