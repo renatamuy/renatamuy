@@ -4,7 +4,10 @@
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals 🦇, maps 🌏, and mentoring
-* [<img align="left" width="22px" src="https://allisonhorst.com/r-slack-emoji.gif"/>](https://allisonhorst.com/r-slack-emoji)
+
+<br>
+
+[<img align="left" width="100px" src="https://allisonhorst.com/r-slack-emoji.gif"/>](https://allisonhorst.com/r-slack-emoji)
 
 <br>
 
