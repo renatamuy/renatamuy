@@ -1,15 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Kia+ora,+I+am+Renata+😎;I+am+curious;I+love+R)](https://git.io/typing-svg)
 
+<br>
+
+[<img align="centre" width="100px" src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b"/>]([https://allisonhorst.com/r-slack-emoji](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b))
+
+<br>
+
+
 * 👩‍💻 I’m currently working on: self-development, disease ecology, biodiversity and spatial analysis
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals 🦇, maps 🌏, and mentoring
 
-<br>
 
-[<img align="left" width="100px" src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b"/>]([https://allisonhorst.com/r-slack-emoji](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/a3eaa2ec-c0e8-491c-af88-ab5a64ebea61.gif?h=f537e74b3ff960e72b10925ef4d3f75b))
-
-<br>
 
 <div>
   <a href="https://github.com/renatamuy">
