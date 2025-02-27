@@ -13,7 +13,7 @@
 <br>
 
 
-* 👩‍💻 I’m currently working on: self-development, disease ecology, biodiversity and spatial analysis
+* 👩‍💻 I’m currently working on: disease ecology, biodiversity and spatial analysis
 * 🤯 I’m looking for help with: complexity
 * 😄 Pronouns: her/she/dela/ela
 * 💓 Love: mammals 🦇, maps 🌏, and mentoring
